@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-**I'm a Geophysical Engineering Student** who passionate about the automation of IT processes.
+**I'm a Backend Developer**
 
-- 🏫 I’m currently a geophysical engineering student at Universitas Jambi
-- 🌱 Learning about programming languages
-- 📫 Reach me: https://www.linkedin.com/in/m-ilham-syaputra/  
+- 🏫 I’m currently working as a backend developer. I use golang and sometimes Python.
+- 🔎 I'm open to freelance or fulltime job!
+- 📫 Reach me: https://www.linkedin.com/in/m-ilham-syaputra/ || ilhamsyaputra25@gmail.com  
 - 📰 Medium: https://milhamsyaputra.medium.com/  
 
 <p align="left">
